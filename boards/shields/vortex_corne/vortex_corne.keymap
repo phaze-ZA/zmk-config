@@ -66,7 +66,7 @@
       bindings = <
         &kp GRAVE   &kp Q        &kp W        &kp E         &kp R           &kp T            &kp Y         &kp U           &kp I         &kp O        &kp P           &none
         &kp SQT     &mt LGUI A   &mt LALT S   &mt LSHFT D   &mt LCTRL F     &kp G            &kp H         &mt RCTRL J     &mt RSHFT K   &mt RALT L   &mt RGUI SQT    &none
-        &kp FLSH    &kp Z        &kp X        &kp C         &kp V           &kp B            &kp N         &kp M           &kp COMMA     &kp DOT      &kp FSLH        &none
+        &kp FSLH    &kp Z        &kp X        &kp C         &kp V           &kp B            &kp N         &kp M           &kp COMMA     &kp DOT      &kp FSLH        &none
                                               &lt NAV DEL   &lt NUM BSPC    &lt MSE RET      &kp TAB       &lt FUN SPACE   &lt MED ESC
       >;
     };
