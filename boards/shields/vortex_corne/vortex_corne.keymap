@@ -100,10 +100,10 @@
 
     number_layer {
       bindings = <
-         &none   &none      &none      &to_GAM     &to_BASE    &none      &kp LBKT    &kp N7   &kp N8   &kp N9   &kp RBKT    &none
-         &none   &kp LGUI   &kp LALT   &kp LSHFT   &kp LCTRL   &none      &kp EQUAL   &kp N4   &kp N5   &kp N6   &kp SEMI    &none
-         &none   &none      &none      &to_FUN     &none       &none      &kp BSLH    &kp N1   &kp N2   &kp N3   &kp GRAVE   &none
-                                       &none       &none       &none      &kp MINUS   &kp N0   &kp DOT
+         &kp GRAVE   &none      &none      &to_GAM     &to_BASE    &none      &kp LBKT    &kp N7   &kp N8   &kp N9   &kp RBKT    &none
+         &kp SEMI    &kp LGUI   &kp LALT   &kp LSHFT   &kp LCTRL   &none      &kp EQUAL   &kp N4   &kp N5   &kp N6   &kp SEMI    &none
+         &kp FSLH    &none      &none      &to_FUN     &none       &none      &kp BSLH    &kp N1   &kp N2   &kp N3   &kp GRAVE   &none
+                                           &none       &none       &none      &kp MINUS   &kp N0   &kp DOT
       >;
     };
 
